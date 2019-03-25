@@ -1,6 +1,6 @@
 <html>
 <head>
-    <link rel="Stlye" href="lab4style.css">
+    <link rel="Style" href="lab4style.css">
 </head>
 <body>
     <h1>Friend book</h1>
